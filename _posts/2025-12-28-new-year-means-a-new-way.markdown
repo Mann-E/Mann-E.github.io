@@ -23,3 +23,5 @@ Finally, we have decided to shut it down and think about starting over.
 <p align="center">
     <img src="/assets/images/new-year-manne.png">
 </p>
+
+## Starting over in 2026

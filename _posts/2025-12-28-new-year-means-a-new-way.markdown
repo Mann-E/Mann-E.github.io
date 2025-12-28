@@ -25,3 +25,11 @@ Finally, we have decided to shut it down and think about starting over.
 </p>
 
 ## Starting over in 2026
+
+Now, since we kept the domain, most of the source codes and procedures and also connections to the _good companies_ we are developing our 2026 vision, which includes "acting globally" from the day zero. Also, finding a more "niche" community for our product who are ready to pay (crypto or fiat, doesn't really matter what the form is) for the concept we're trying to sell. 
+
+Economy has changed, the world has changed, so businesses have to change as well. I personally will keep this blog updated and write about Mann-E and how it'll be resurface in 2026 regularly at least for the very first few months of the new year. 
+
+Finally, I wish all of the readers of the blog a peaceful, beautiful and wealthful year. 
+
+Muhammadreza Haghiri

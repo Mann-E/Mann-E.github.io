@@ -14,7 +14,15 @@ In this post, we explore how we went through this on tuning different models (St
 
 ## Scraping The Web
 
+The very first (and somehow, most logical way) of gathering data with midjourney's aesthetic was scraping the web and websites sharing art or photographs with similar aesthetics. But it calls for a lot of problems which I describe here. First one is always copyrights. We do not know what is legal status of using those pictures in terms of copyrights and it can become a legal problem in future. The second one is that not all pictures from the internet are in good shape or quality. 
+
+In my personal experience, _Stable Diffusion 1.5_ and its derivatives (Like DreamShaper) have tendency of inheriting the low quality from a low quality source data. So low quality input could easiyl ruin the data. On the other hand, Stable Diffusion (from 1.5 to SD, the versions we worked on before migration to Flux models as a base) has a strict rule of feeding on fixed size images and images must have been cropped and resized to 512x512 (for 1.5) or 768x768 or 1024x1024 (for XL) and we couldn't easily get our hands on fixed size images easily while scrapping the data from the web. 
+
+Although this method worked perfectly for one of our later projects (which was a SVG image generator) but wasn't good for Midjourney imitation goal we've got in our heads. So we just found another target, midjourney itself!
+
 ## Knowledge Distillation 
+
+## Midjourney had a secret.
 
 ## Features for future
 

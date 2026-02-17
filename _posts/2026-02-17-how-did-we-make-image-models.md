@@ -32,6 +32,14 @@ At this time I personally wanted to give up on it and go with the mediocre model
 
 ## Midjourney had a secret.
 
-## Features for future
+Midjourney is closed source and even if they have used open models such as SD, they're not giving up their under the hood models. But as far as I could find from people's assumptions on reddit or other internet forums, they basically had multiple models (and they have two separate confirmed models, one is main one and the other is _Niji_ which generates anime content) and based on your prompts, it decides to go with which one. 
+
+So at this point, I found out that fine tune isn't enough and started another round of development which was merging the model with good checkpoints with good licensing (like Apache 2.0) we could find on the internet. This is how it went for a long time. Most of the models tuned with _Dreambooth_ technique have a _trigger word_ and it was enough to develop a detector (and later using a local LLM) to find which trigger word is better for the prompt. 
+
+After a few months of training and working on the models, we found out something. LoRA's are now something we can use on `diffusers` library and even [AUTOMATIC1111](https://github.com/automatic1111) UI can load them perfectly. So using a LoRA became our number one priority. We had a base model and a repository of LoRAs. 
+
+For now, since we're working on FLUX based models (which are accessible through our APIs since the platform is taken down) the base aesthetic is good but we still work on multiple LoRAs to add more to the base model. This is how we're going on and we've got plans for the future when we may restart as a generative AI platform. For now, since we have a lot of problems to face we decided to keep things as smooth as possible. 
+
+## Features for the future
 
 ## Conclusion

@@ -22,6 +22,14 @@ Although this method worked perfectly for one of our later projects (which was a
 
 ## Knowledge Distillation 
 
+At that point, we've got a lot of good SD 1.5 tunes, and we'll discuss that in the next section. But we still needed one thing and that was _that goddamn midjourney aesthetic_ and at this time, one idea came to my mind. The idea was good enough for me to think about it multiple times and try to rewrite it and review it multiple times. So what was this __once in a lifetime idea__ I got in my head? 
+
+Well, going to Midjourney, get an account and start making _picture-prompt pairs_. This is what has done by a lot of other startup companies and even big names such as _DeepSeek_. They did this on text, we've done it on images. Best collections and prompt combinations just collected. I personally went after a lot of tutorials on Midjourney's prompt engineering and I had my prompts ready. 
+
+After a few days of getting ready, I just got myself into the midjourney and got myself an account (which was $25/mo at the time) and started prompting. I collected images and wrote scripts in order to do resizing and renaming the files in prompt-picture pairs as intended. And finally, using Dreambooth, we managed to have a pretty good model. But there was a big problem which we needed to solve. Although it got pretty close to Midjourney we still had some problems identifying the secret behind Midjourney. 
+
+At this time I personally wanted to give up on it and go with the mediocre model I got and run platform on it. Fortunately, I went on full forensics mode and started gathering information on how midjourney works under the hood. 
+
 ## Midjourney had a secret.
 
 ## Features for future

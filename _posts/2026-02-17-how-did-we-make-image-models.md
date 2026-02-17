@@ -42,4 +42,8 @@ For now, since we're working on FLUX based models (which are accessible through 
 
 ## Features for the future
 
+If you want to compete in this field in 2026 you have to provide something more than _yet another midjourney wannabe_ and honestly that makes everything much more difficult than the past few years. Your models or tools must have image-to-image abilities similar to Nano Banana or something similar. What is the answer then? Also a lot of people are mad about Qwen Image and models like that which are open but despite being open, are impossible to run on consumer machines as well. 
+
+So the future plan of ours is simply _an open source small model which has image to image abilities_ in order to make it local and again, we will be able to run it on cheap infrastructure. This is how we planned the future and we hope this future comes as soon as possible. 
+
 ## Conclusion

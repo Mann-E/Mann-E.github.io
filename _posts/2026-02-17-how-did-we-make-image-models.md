@@ -47,3 +47,7 @@ If you want to compete in this field in 2026 you have to provide something more 
 So the future plan of ours is simply _an open source small model which has image to image abilities_ in order to make it local and again, we will be able to run it on cheap infrastructure. This is how we planned the future and we hope this future comes as soon as possible. 
 
 ## Conclusion
+
+In conclusion I have to say these days we have more _big names_ to get aesthetics from. Also they're heavily censored on very small matters (such as political names or so) and there is another problem which is even open models are now __HUGE__ which makes them impossible to run on local hardware. Well, we have to do something to democratize and privatize this type of artificial intelligence and this is our goal. 
+
+Finally, if you're interested in our past works you can check [our huggingface repositories](https://hf.co/mann-e). 
